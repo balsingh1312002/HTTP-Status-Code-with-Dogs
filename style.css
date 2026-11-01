@@ -60,3 +60,12 @@ span{
     width: 40px;
     border-radius: 5px;
 }
+@media(max-width : 912px){
+  h1{
+    font-size: 30px;
+  }
+  #defaultImg{
+    height: 150px;
+    width: 150px;
+  }
+}
